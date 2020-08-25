@@ -1,6 +1,10 @@
 # mastercard
 
-A new Flutter application.
+A new Flutter application. 
+
+## Mobile App demo for tracking expenses with card credentials.
+
+
 
 ## Getting Started
 
